@@ -1,7 +1,6 @@
 ﻿using HotelListing.API.Contracts;
 using HotelListing.API.Data;
 using Microsoft.EntityFrameworkCore;
-using System.Diagnostics.Metrics;
 
 namespace HotelListing.API.Repository
 {
